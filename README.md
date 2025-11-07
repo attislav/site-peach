@@ -7,7 +7,7 @@ Discover the latest fashion trends and beauty tips at Peach & Chic. Your daily d
 This Next.js site was generated using the Multi-Site Generator.
 
 - **Niche:** Fashion
-- **Created:** 31.10.2025
+- **Created:** 7.11.2025
 - **WordPress:** https://wp.peachandchic.com
 
 ## 📦 Development
